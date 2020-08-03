@@ -15,5 +15,7 @@ I'll tell you a bit about me while you're here
 
 # My Contacts
 Twitter: @ReturnedTrue
+<br />
 Discord: ReturnedTrue#8774
+<br />
 Roblox: ReturnedTrue
