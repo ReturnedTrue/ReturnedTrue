@@ -18,6 +18,8 @@ I'll tell you a bit about me while you're here
 <img align="left" src="images/nodejs.png" alt="Node.js" width="25px">
 <img align="left" src="images/discordjs.png" alt="Discord.js" width="25px">
 <img align="left" src="images/python.png" alt="Python" width="25px">
+<img align="left" src="images/git.png" alt="Git" width="25px">
+<img align="left" src="images/github.png" alt="GitHub" width="25px">
 
 <br />
 
