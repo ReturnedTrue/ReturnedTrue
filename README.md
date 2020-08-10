@@ -7,19 +7,23 @@ I'll tell you a bit about me while you're here
 - Game Development (Roblox mostly)
 - Web Development (FERN stack)
 
-# My skills
+# My skills and tools
 <img align="left" src="images/lua.png" alt="Lua" width="25px">
 <img align="left" src="images/studio.png" alt="RobloxStudio" width="25px">
+<img align="left" src="images/rojo.png" alt="Rojo" width="25px">
+<img align="left" src="images/roblox-ts.png" alt="Roblox-ts" width="25px">
 <img align="left" src="images/js.png" alt="JavaScript" width="25px">
 <img align="left" src="images/ts.png" alt="TypeScript" width="25px">
 <img align="left" src="images/firebase.png" alt="Firebase" width="25px">
 <img align="left" src="images/express.png" alt="Express" width="25px">
 <img align="left" src="images/react.png" alt="React" width="25px">
 <img align="left" src="images/nodejs.png" alt="Node.js" width="25px">
+<img align="left" src="images/npm.png" alt="npm" width="25px">
 <img align="left" src="images/discordjs.png" alt="Discord.js" width="25px">
 <img align="left" src="images/python.png" alt="Python" width="25px">
 <img align="left" src="images/git.png" alt="Git" width="25px">
 <img align="left" src="images/github.png" alt="GitHub" width="25px">
+<img align="left" src="images/vscode.png" alt="Visual Studio Code" width="25px">
 
 <br />
 
