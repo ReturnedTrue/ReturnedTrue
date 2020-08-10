@@ -27,9 +27,6 @@ I'll tell you a bit about me while you're here
 <a href="https://twitter.com/ReturnedTrue">
 	<img align="left" src="images/twitter.png" alt="Twitter" width="25px">
 </a>
-<a href="https://www.roblox.com/users/1100961460/profile">
-	<img align="left" src="images/roblox.png" alt="Roblox" width="25px">
-</a>
 <a href="https://devforum.roblox.com/u/returnedtrue">
 	<img align="left" src="images/studio.png" alt="Roblox DevForum" width="25px">
 </a>
