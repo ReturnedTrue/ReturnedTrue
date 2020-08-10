@@ -8,26 +8,26 @@ I'll tell you a bit about me while you're here
 - Web Development (FERN stack)
 
 # My skills
-<img src="images/lua.png" alt="Lua" height="252" width="252">
-<img src="images/studio.png" alt="RobloxStudio" height="252" width="252">
-<img src="images/js.png" alt="JavaScript" height="252" width="252">
-<img src="images/ts.png" alt="TypeScript" height="252" width="252">
-<img src="images/firebase.png" alt="Firebase" height="252" width="252">
-<img src="images/express.png" alt="Express" height="252" width="252">
-<img src="images/react.png" alt="React" height="252" width="252">
-<img src="images/nodejs.png" alt="Node.js" height="252" width="252">
-<img src="images/discordjs.png" alt="Discord.js" height="252" width="252">
-<img src="images/python.png" alt="Python" height="252" width="252">
+<img align="left" src="images/lua.png" alt="Lua" width="25px">
+<img align="left" src="images/studio.png" alt="RobloxStudio" width="25px">
+<img align="left" src="images/js.png" alt="JavaScript" width="25px">
+<img align="left" src="images/ts.png" alt="TypeScript" width="25px">
+<img align="left" src="images/firebase.png" alt="Firebase" width="25px">
+<img align="left" src="images/express.png" alt="Express" width="25px">
+<img align="left" src="images/react.png" alt="React" width="25px">
+<img align="left" src="images/nodejs.png" alt="Node.js" width="25px">
+<img align="left" src="images/discordjs.png" alt="Discord.js" width="25px">
+<img align="left" src="images/python.png" alt="Python" width="25px">
 
 # My Contacts
 <a href="https://twitter.com/ReturnedTrue">
-	<img src="images/twitter.png" alt="Twitter" height="252" width="252">
+	<img align="left" src="images/twitter.png" alt="Twitter" width="25px">
 </a>
 <a href="https://www.roblox.com/users/1100961460/profile">
-	<img src="images/roblox.png" alt="Roblox" height="252" width="252">
+	<img align="left" src="images/roblox.png" alt="Roblox" width="25px">
 </a>
 <a href="https://devforum.roblox.com/u/returnedtrue">
-	<img src="images/studio.png" alt="Roblox DevForum" height="252" width="252">
+	<img align="left" src="images/studio.png" alt="Roblox DevForum" width="25px">
 </a>
 
 # My stats
