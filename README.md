@@ -19,6 +19,8 @@ I'll tell you a bit about me while you're here
 <img align="left" src="images/discordjs.png" alt="Discord.js" width="25px">
 <img align="left" src="images/python.png" alt="Python" width="25px">
 
+<br />
+
 # My Contacts
 <a href="https://twitter.com/ReturnedTrue">
 	<img align="left" src="images/twitter.png" alt="Twitter" width="25px">
@@ -29,6 +31,8 @@ I'll tell you a bit about me while you're here
 <a href="https://devforum.roblox.com/u/returnedtrue">
 	<img align="left" src="images/studio.png" alt="Roblox DevForum" width="25px">
 </a>
+
+<br />
 
 # My stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ReturnedTrue)](https://github.com/anuraghazra/github-readme-stats)
