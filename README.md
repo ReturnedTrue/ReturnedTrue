@@ -8,21 +8,27 @@ I'll tell you a bit about me while you're here
 - Web Development (FERN stack)
 
 # My skills
-![Lua](images/lua.png =252x252)
-![RobloxStudio](images/studio.png =252x252)
-![JS](images/js.png =252x252)
-![TS](images/ts.png =252x252)
-![Firebase](images/firebase.png =252x252)
-![Express](images/express.png =252x252)
-![React](images/react.png =252x252)
-![Nodejs](images/nodejs.png =252x252)
-![Discordjs](images/discordjs.png =252x252)
-![Python](images/python.png =252x252)
+<img src="images/lua.png" alt="Lua" height="252" width="252">
+<img src="images/studio.png" alt="RobloxStudio" height="252" width="252">
+<img src="images/js.png" alt="JavaScript" height="252" width="252">
+<img src="images/ts.png" alt="TypeScript" height="252" width="252">
+<img src="images/firebase.png" alt="Firebase" height="252" width="252">
+<img src="images/express.png" alt="Express" height="252" width="252">
+<img src="images/react.png" alt="React" height="252" width="252">
+<img src="images/nodejs.png" alt="Node.js" height="252" width="252">
+<img src="images/discordjs.png" alt="Discord.js" height="252" width="252">
+<img src="images/python.png" alt="Python" height="252" width="252">
 
 # My Contacts
-[![Twitter](images/twitter.png =252x252)](https://twitter.com/ReturnedTrue)
-[![Roblox](images/roblox.png =252x252)](https://www.roblox.com/users/1100961460/profile)
-[![Roblox DevForum](images/studio.png =252x252)](https://devforum.roblox.com/u/returnedtrue)
+<a href="https://twitter.com/ReturnedTrue">
+	<img src="images/twitter.png" alt="Twitter" height="252" width="252">
+</a>
+<a href="https://www.roblox.com/users/1100961460/profile">
+	<img src="images/roblox.png" alt="Roblox" height="252" width="252">
+</a>
+<a href="https://devforum.roblox.com/u/returnedtrue">
+	<img src="images/studio.png" alt="Roblox DevForum" height="252" width="252">
+</a>
 
 # My stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ReturnedTrue)](https://github.com/anuraghazra/github-readme-stats)
