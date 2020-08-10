@@ -29,10 +29,10 @@ I'll tell you a bit about me while you're here
 
 # My Contacts
 <a href="https://twitter.com/ReturnedTrue">
-	<img align="left" src="images/twitter.png" alt="Twitter" width="25px">
+	<img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/twitter.png" alt="Twitter" width="25px">
 </a>
 <a href="https://devforum.roblox.com/u/returnedtrue">
-	<img align="left" src="images/studio.png" alt="Roblox DevForum" width="25px">
+	<img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/studio.png" alt="Roblox DevForum" width="25px">
 </a>
 
 <br />
