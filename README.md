@@ -19,10 +19,12 @@ I'll tell you a bit about me while you're here
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/nodejs.png" alt="Node.js" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/discordjs.png" alt="Discord.js" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/python.png" alt="Python" width="25px">
+<img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/rust.jpg" alt="Rust" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/git.png" alt="Git" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/github.png" alt="GitHub" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/vscode.png" alt="Visual Studio Code" width="25px">
 
+<br />
 <br />
 
 # My Contacts
