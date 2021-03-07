@@ -1,5 +1,5 @@
 # Hello!
-Welcome to my profile, my name is William and I go under the nickname 'ReturnedTrue'.
+Welcome to my profile, my name is William and I go under the nickname 'ReturnedTrue'.<br />
 I'm a secondary school student looking to become a game developer.
 
 # My skills and tools
@@ -34,6 +34,7 @@ I'm a secondary school student looking to become a game developer.
 
 # My stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ReturnedTrue&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReturnedTrue&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
