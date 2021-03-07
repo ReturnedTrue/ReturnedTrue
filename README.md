@@ -1,11 +1,6 @@
 # Hello!
-Welcome to my profile, I don't use GitHub too much so there's not too much to see here. 
-<br />
-I'll tell you a bit about me while you're here
-
-# My interests
-- Game Development (Roblox mostly)
-- Web Development (FERN stack)
+Welcome to my profile, my name is William and I go under the nickname 'ReturnedTrue'.
+I'm a secondary school student looking to become a game developer.
 
 # My skills and tools
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/lua.png" alt="Lua" width="25px">
@@ -19,7 +14,7 @@ I'll tell you a bit about me while you're here
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/nodejs.png" alt="Node.js" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/discordjs.png" alt="Discord.js" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/python.png" alt="Python" width="25px">
-<img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/rust.jpg" alt="Rust" width="25px">
+<img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/rust.png" alt="Rust" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/git.png" alt="Git" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/github.png" alt="GitHub" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/vscode.png" alt="Visual Studio Code" width="25px">
@@ -39,5 +34,6 @@ I'll tell you a bit about me while you're here
 
 # My stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ReturnedTrue&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReturnedTrue&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
