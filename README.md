@@ -6,6 +6,7 @@ I'm a secondary school student looking to become a game developer.
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/lua.png" alt="Lua" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/studio.png" alt="RobloxStudio" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/roblox-ts.png" alt="Roblox-ts" width="25px">
+<img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/roact-tsx.png" alt="Roact TSX" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/ts.png" alt="TypeScript" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/js.png" alt="JavaScript" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/firebase.png" alt="Firebase" width="25px">
@@ -13,6 +14,7 @@ I'm a secondary school student looking to become a game developer.
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/react.png" alt="React" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/nodejs.png" alt="Node.js" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/discordjs.png" alt="Discord.js" width="25px">
+<img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/csharp.png" alt="C#" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/python.png" alt="Python" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/rust.png" alt="Rust" width="25px">
 <img align="left" src="https://github.com/ReturnedTrue/ReturnedTrue/blob/master/images/git.png" alt="Git" width="25px">
